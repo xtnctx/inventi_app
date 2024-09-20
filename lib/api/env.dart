@@ -8,7 +8,7 @@ class Env {
   // static String BASE_URL = "http://10.0.2.2:8000";
 
   // Production
-  static String BASE_URL = "https://xtnctx.pythonanywhere.com/";
+  static String BASE_URL = "http://xtnctx.pythonanywhere.com";
 
   static String TEXT_GENERATOR_URL =
       "https://o7q6ka26qs232rmbtpbrxghy6u0vyrup.lambda-url.ap-southeast-1.on.aws/";
